@@ -1,5 +1,5 @@
 # India-Space-Academy-Internship
-# Geospatial Terrain & Vegetation Mapping
+## Geospatial Terrain & Vegetation Mapping
 
 ## Overview
 This repository contains the geospatial analysis pipelines and Google Earth Engine (GEE) scripts developed during the Winter Training Program on Space Science Technology at the **India Space Academy**.
