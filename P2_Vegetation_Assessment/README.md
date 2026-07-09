@@ -13,5 +13,5 @@ You can view and run the classification pipeline directly in your browser withou
 👉 **[Run NDVI Script in Earth Engine](https://code.earthengine.google.com/5ffe1b67f5b7f99ac022f14beea6d3e7)**
 
 ## 📄 Documentation
-* `P2_NDVI_Vegetation_Assessment.pdf`: Full technical report detailing the classification matrix and error analysis.
+* `Project_Report_2.pdf`: Full technical report detailing the classification matrix and error analysis.
 * `NDVI_Vegetation_Classification.js`: The raw JavaScript pipeline.
