@@ -13,5 +13,5 @@ You can view and run the extraction pipeline directly in your browser without an
 👉 **[Run NDWI Script in Earth Engine](https://code.earthengine.google.com/275575f43c05f1eebb619832297401e7)**
 
 ## 📄 Documentation
-* `P1_NDWI_Surface_Water_Mapping.pdf`: Full technical report detailing the study area, methodology, and accuracy analysis.
+* `Project_Report_1.pdf`: Full technical report detailing the study area, methodology, and accuracy analysis.
 * `NDWI_Water_Extraction.js`: The raw JavaScript pipeline.
