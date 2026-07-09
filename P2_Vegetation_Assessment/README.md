@@ -1,4 +1,4 @@
-# AI-Based Vegetation Health Assessment (NDVI) 🌱
+# AI-Based Vegetation Health Assessment (NDVI)
 
 This module evaluates canopy health and vegetation density using normalized difference thresholding and AI-inspired spatial filtering.
 
